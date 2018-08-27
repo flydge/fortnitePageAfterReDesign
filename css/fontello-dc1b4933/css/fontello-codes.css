@@ -1,0 +1,9 @@
+
+.icon-star:before { content: '\e800'; } /* '' */
+.icon-down-dir:before { content: '\e801'; } /* '' */
+.icon-arrows-cw:before { content: '\e803'; } /* '' */
+.icon-twitter:before { content: '\f099'; } /* '' */
+.icon-facebook:before { content: '\f09a'; } /* '' */
+.icon-vkontakte:before { content: '\f189'; } /* '' */
+.icon-share:before { content: '\f1e0'; } /* '' */
+.icon-twitch:before { content: '\f1e8'; } /* '' */
